@@ -6,4 +6,4 @@ Apart from this, all credit goes to the maintainer Petr Mrázek at petr@mojang.c
 Mojang and Microsoft in terms of the Minecraft ecosystem. Also, for my automated script,
 open the folder the script is in, adjust its properties to run as a program, and open the
 terminal in the folder using this command: './minecraft-installer-bugfixed.sh'
-I hope this helps a lot of you, particularly new and longtime Debian users. 
+I hope this helps a lot of you, particularly new and longtime Debian users.
