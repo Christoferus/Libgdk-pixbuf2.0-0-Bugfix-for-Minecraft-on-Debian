@@ -4,5 +4,5 @@ This is caused by a missing hyphen between "pixbuf" and "2." I repackaged the .d
 with the proper dependency name, tested it on hardware, and it installs without any errors.
 Apart from this, all credit goes to the maintainer Petr Mrázek at petr@mojang.com, and to
 Mojang and Microsoft in terms of the Minecraft ecosystem. For the script, download Minecraft.deb
-and my script, adjust its properties to run as a program, and open the terminal in the folder
-using this command: './minecraft-installer-bugfixed.sh' 
+and my script, adjust the script's properties to run as a program, and open the terminal in the
+folder using this command: './minecraft-installer-bugfixed.sh' 
